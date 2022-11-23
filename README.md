@@ -12,6 +12,6 @@
 `sudo apt-get install python3-tk`
 
 Клонируем репозиторий и запускаем программу:  
-`git@github.com:RostunovAV/KeyboardTrainer-RostunovAV-B05-206.git`  
+`git clone git@github.com:RostunovAV/KeyboardTrainer-RostunovAV-B05-206.git`  
 `python3 menu.py`
 
