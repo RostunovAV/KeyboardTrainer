@@ -7,4 +7,11 @@
 Время набора текста, количество ошибок, среднее количество набранных символов в минуту
 
 Запуск:
-Для запуска нужно запустить файл menu.py
+
+Для запуска нужно установить библиотеку tkinter:  
+`sudo apt-get install python3-tk`
+
+Клонируем репозиторий и запускаем программу:  
+`git@github.com:RostunovAV/KeyboardTrainer-RostunovAV-B05-206.git`  
+`python3 menu.py`
+
